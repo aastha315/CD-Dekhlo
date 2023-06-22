@@ -33,7 +33,7 @@ export default function Barcharts(props:any) {
       <YAxis />
       <Tooltip />
       <Legend />
-      <Bar dataKey="value" fill="tomato" />
+      <Bar dataKey="value" fill=" #800080" />
     </BarChart>
 
     </div>
