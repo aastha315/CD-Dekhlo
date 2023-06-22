@@ -17,10 +17,10 @@ export default function Display(props : any){
     return (<div>
     
       <div className="d-flex justify-content-around">
-           <div className="shadow-lg p-3 mb-5 bg-black rounded">
+           <div className="shadow-lg p-3 mb-5 bg-white rounded">
             <Charts data={props.verdict} userH={props.userH} heading={"Verdict"} />
            </div> 
-           <div className="shadow-lg p-3 mb-5 bg-black rounded">
+           <div className="shadow-lg p-3 mb-5 bg-white rounded">
             <Charts data={props.progLang} userH={props.userH} heading={"Programming_Language's"}/>
            </div>
       </div>
