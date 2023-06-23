@@ -4,7 +4,7 @@ import React from 'react';
 function Nav(){
     return(
     <div>
-      <nav className={"navbar navbar-expand-lg ${styles['navbar-custom']}"}>
+      <nav class="navbar" style="background-color: #e3f2fd;">
     <div className="container-fluid">
     <a className="navbar-brand" href="#">CD-DEKHLO</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
