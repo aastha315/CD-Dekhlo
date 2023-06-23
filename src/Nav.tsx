@@ -4,7 +4,7 @@ import React from 'react';
 function Nav(){
     return(
     <div>
-      <nav class="navbar bg-dark border-bottom border-bottom-dark" data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg bg-danger-subtle text-emphasis-danger">.bg-danger-subtle
     <div className="container-fluid">
     <a className="navbar-brand" href="#">CD-DEKHLO</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
