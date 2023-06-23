@@ -4,9 +4,9 @@ import React from 'react';
 function Nav(){
     return(
     <div>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <nav className="navbar navbar-expand-lg bg-body-tertiary ">
     <div className="container-fluid">
-    <a className="navbar-brand" href="#">CD-DEKHLO</a>
+    <a className="navbar-brand" href="#">CD-Dekhlo</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
